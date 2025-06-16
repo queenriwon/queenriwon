@@ -32,5 +32,3 @@
 </p>
 
 <br><br>
-
-![footer](https://capsule-render.vercel.app/api?type=soft&section=footer&color=gradient&height=20)
